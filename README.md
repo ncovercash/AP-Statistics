@@ -2,7 +2,7 @@
 
 This repository contains a variety of resources, assignments, and other such items from my AP Stastics class with Ms. Lund in Spring 2019 at South Pointe HS.
 
-The file Upcoming.html contains an easy to view list of all assignments, quizzes, and tests.  Pardon the French in the structure, but the assignment names are English.  The timestamp in the top left of the file shows the last time it was updated and "À échéance" simply means "due by."  The dates are in format YY-MM-DD.
+The file Upcoming.pdf contains an easy to view list of all assignments, quizzes, and tests.  Pardon the French in the structure, but the assignment names are English.  The timestamp in the top left of the file shows the last time it was updated and "À échéance" simply means "due by."  The dates are in format YY-MM-DD.
 
 The Book Pages folder contains precisely that - scanned PDF pages of the homework problems from the book, updated as assigned.
 
